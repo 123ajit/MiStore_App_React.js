@@ -1,5 +1,5 @@
 # MiStore_App_React.js
-
+1. ![image](https://user-images.githubusercontent.com/14126987/135397267-ac13c29e-8c1c-4f1a-b526-bfc721cf720f.png)
 # Available Scripts
 
 In the project directory, you can run:
